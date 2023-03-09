@@ -1,7 +1,7 @@
 Minnesota COVID Report
 ================
 
-Report last run: 2023-03-08 22:09:03
+Report last run: 2023-03-09 22:09:22
 
 ## Introduction
 
@@ -106,25 +106,25 @@ rate_data %>%
   knitr::kable()
 ```
 
-| county             | state        |     pop | covid_rate |
-|:-------------------|:-------------|--------:|-----------:|
-| Loving             | Texas        |     169 |       2367 |
-| Clark              | Kansas       |    1994 |        802 |
-| Rawlins            | Kansas       |    2530 |        593 |
-| Rolette            | North Dakota |   14176 |        578 |
-| Union              | Kentucky     |   14381 |        570 |
-| Traverse           | Minnesota    |    3259 |        552 |
-| Miami-Dade         | Florida      | 2716940 |        508 |
-| Bethel Census Area | Alaska       |   18386 |        506 |
-| Jackson            | Florida      |   46414 |        489 |
-| Gadsden            | Florida      |   45660 |        466 |
-| Hamilton           | Nebraska     |    9324 |        461 |
-| Concho             | Texas        |    2726 |        440 |
-| Menominee          | Wisconsin    |    4556 |        439 |
-| Oglala Lakota      | South Dakota |   14177 |        423 |
-| Petroleum          | Montana      |     487 |        411 |
-| Sargent            | North Dakota |    3898 |        410 |
-| Lemhi              | Idaho        |    8027 |        399 |
-| Pawnee             | Kansas       |    6414 |        390 |
-| Todd               | South Dakota |   10177 |        383 |
-| Suwannee           | Florida      |   44417 |        374 |
+| county                   | state        |     pop | covid_rate |
+|:-------------------------|:-------------|--------:|-----------:|
+| Mineral                  | Colorado     |     769 |       1170 |
+| Hodgeman                 | Kansas       |    1794 |        669 |
+| Lamb                     | Texas        |   12893 |        667 |
+| Rolette                  | North Dakota |   14176 |        578 |
+| Union                    | Kentucky     |   14381 |        570 |
+| Traverse                 | Minnesota    |    3259 |        552 |
+| Miami-Dade               | Florida      | 2716940 |        508 |
+| Bethel Census Area       | Alaska       |   18386 |        506 |
+| Jackson                  | Florida      |   46414 |        489 |
+| Gadsden                  | Florida      |   45660 |        466 |
+| Hamilton                 | Nebraska     |    9324 |        461 |
+| Petroleum                | Montana      |     487 |        411 |
+| Sargent                  | North Dakota |    3898 |        410 |
+| Clark                    | Kansas       |    1994 |        401 |
+| Gove                     | Kansas       |    2636 |        379 |
+| Suwannee                 | Florida      |   44417 |        374 |
+| Northwest Arctic Borough | Alaska       |    7621 |        367 |
+| Tazewell                 | Virginia     |   40595 |        362 |
+| Campbell                 | Tennessee    |   39842 |        356 |
+| Leon                     | Florida      |  293582 |        356 |
