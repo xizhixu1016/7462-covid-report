@@ -1,7 +1,7 @@
 Minnesota COVID Report
 ================
 
-Report last run: 2023-03-09 22:09:22
+Report last run: 2023-03-10 22:08:37
 
 ## Introduction
 
@@ -108,12 +108,11 @@ rate_data %>%
 
 | county                   | state        |     pop | covid_rate |
 |:-------------------------|:-------------|--------:|-----------:|
-| Mineral                  | Colorado     |     769 |       1170 |
+| Mineral                  | Colorado     |     769 |       1040 |
 | Hodgeman                 | Kansas       |    1794 |        669 |
 | Lamb                     | Texas        |   12893 |        667 |
 | Rolette                  | North Dakota |   14176 |        578 |
 | Union                    | Kentucky     |   14381 |        570 |
-| Traverse                 | Minnesota    |    3259 |        552 |
 | Miami-Dade               | Florida      | 2716940 |        508 |
 | Bethel Census Area       | Alaska       |   18386 |        506 |
 | Jackson                  | Florida      |   46414 |        489 |
@@ -124,6 +123,7 @@ rate_data %>%
 | Clark                    | Kansas       |    1994 |        401 |
 | Gove                     | Kansas       |    2636 |        379 |
 | Suwannee                 | Florida      |   44417 |        374 |
+| Traverse                 | Minnesota    |    3259 |        368 |
 | Northwest Arctic Borough | Alaska       |    7621 |        367 |
 | Tazewell                 | Virginia     |   40595 |        362 |
 | Campbell                 | Tennessee    |   39842 |        356 |
