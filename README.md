@@ -1,7 +1,7 @@
 Minnesota COVID Report
 ================
 
-Report last run: 2023-03-10 22:08:37
+Report last run: 2023-03-11 22:08:05
 
 ## Introduction
 
@@ -106,25 +106,25 @@ rate_data %>%
   knitr::kable()
 ```
 
-| county                   | state        |     pop | covid_rate |
-|:-------------------------|:-------------|--------:|-----------:|
-| Mineral                  | Colorado     |     769 |       1040 |
-| Hodgeman                 | Kansas       |    1794 |        669 |
-| Lamb                     | Texas        |   12893 |        667 |
-| Rolette                  | North Dakota |   14176 |        578 |
-| Union                    | Kentucky     |   14381 |        570 |
-| Miami-Dade               | Florida      | 2716940 |        508 |
-| Bethel Census Area       | Alaska       |   18386 |        506 |
-| Jackson                  | Florida      |   46414 |        489 |
-| Gadsden                  | Florida      |   45660 |        466 |
-| Hamilton                 | Nebraska     |    9324 |        461 |
-| Petroleum                | Montana      |     487 |        411 |
-| Sargent                  | North Dakota |    3898 |        410 |
-| Clark                    | Kansas       |    1994 |        401 |
-| Gove                     | Kansas       |    2636 |        379 |
-| Suwannee                 | Florida      |   44417 |        374 |
-| Traverse                 | Minnesota    |    3259 |        368 |
-| Northwest Arctic Borough | Alaska       |    7621 |        367 |
-| Tazewell                 | Virginia     |   40595 |        362 |
-| Campbell                 | Tennessee    |   39842 |        356 |
-| Leon                     | Florida      |  293582 |        356 |
+| county                   | state        |   pop | covid_rate |
+|:-------------------------|:-------------|------:|-----------:|
+| Garfield                 | Nebraska     |  1969 |       1219 |
+| Mineral                  | Colorado     |   769 |       1040 |
+| Hodgeman                 | Kansas       |  1794 |        669 |
+| Lamb                     | Texas        | 12893 |        667 |
+| Rolette                  | North Dakota | 14176 |        642 |
+| Union                    | Kentucky     | 14381 |        570 |
+| Bethel Census Area       | Alaska       | 18386 |        506 |
+| Sioux                    | North Dakota |  4230 |        426 |
+| Clark                    | Kansas       |  1994 |        401 |
+| Thurston                 | Nebraska     |  7224 |        388 |
+| Gove                     | Kansas       |  2636 |        379 |
+| Traverse                 | Minnesota    |  3259 |        368 |
+| Northwest Arctic Borough | Alaska       |  7621 |        367 |
+| Tazewell                 | Virginia     | 40595 |        362 |
+| Bennington               | Vermont      | 35470 |        361 |
+| Campbell                 | Tennessee    | 39842 |        356 |
+| Bland                    | Virginia     |  6280 |        350 |
+| Nance                    | Nebraska     |  3519 |        341 |
+| Kusilvak Census Area     | Alaska       |  8314 |        325 |
+| Apache                   | Arizona      | 71887 |        320 |
