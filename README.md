@@ -1,7 +1,7 @@
 Minnesota COVID Report
 ================
 
-Report last run: 2023-03-13 22:09:11
+Report last run: 2023-03-14 22:09:02
 
 ## Introduction
 
@@ -109,12 +109,12 @@ rate_data %>%
 | county                   | state        |   pop | covid_rate |
 |:-------------------------|:-------------|------:|-----------:|
 | Garfield                 | Nebraska     |  1969 |       1219 |
-| Mineral                  | Colorado     |   769 |       1040 |
+| Mineral                  | Colorado     |   769 |       1170 |
 | Hodgeman                 | Kansas       |  1794 |        669 |
 | Lamb                     | Texas        | 12893 |        667 |
 | Rolette                  | North Dakota | 14176 |        642 |
-| Union                    | Kentucky     | 14381 |        570 |
 | Bethel Census Area       | Alaska       | 18386 |        506 |
+| Menifee                  | Kentucky     |  6489 |        462 |
 | Sioux                    | North Dakota |  4230 |        426 |
 | Clark                    | Kansas       |  1994 |        401 |
 | Thurston                 | Nebraska     |  7224 |        388 |
