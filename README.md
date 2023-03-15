@@ -1,7 +1,7 @@
 Minnesota COVID Report
 ================
 
-Report last run: 2023-03-14 22:09:02
+Report last run: 2023-03-15 22:08:42
 
 ## Introduction
 
@@ -106,25 +106,25 @@ rate_data %>%
   knitr::kable()
 ```
 
-| county                   | state        |   pop | covid_rate |
-|:-------------------------|:-------------|------:|-----------:|
-| Garfield                 | Nebraska     |  1969 |       1219 |
-| Mineral                  | Colorado     |   769 |       1170 |
-| Hodgeman                 | Kansas       |  1794 |        669 |
-| Lamb                     | Texas        | 12893 |        667 |
-| Rolette                  | North Dakota | 14176 |        642 |
-| Bethel Census Area       | Alaska       | 18386 |        506 |
-| Menifee                  | Kentucky     |  6489 |        462 |
-| Sioux                    | North Dakota |  4230 |        426 |
-| Clark                    | Kansas       |  1994 |        401 |
-| Thurston                 | Nebraska     |  7224 |        388 |
-| Gove                     | Kansas       |  2636 |        379 |
-| Traverse                 | Minnesota    |  3259 |        368 |
-| Northwest Arctic Borough | Alaska       |  7621 |        367 |
-| Tazewell                 | Virginia     | 40595 |        362 |
-| Bennington               | Vermont      | 35470 |        361 |
-| Campbell                 | Tennessee    | 39842 |        356 |
-| Bland                    | Virginia     |  6280 |        350 |
-| Nance                    | Nebraska     |  3519 |        341 |
-| Kusilvak Census Area     | Alaska       |  8314 |        325 |
-| Apache                   | Arizona      | 71887 |        320 |
+| county      | state        |   pop | covid_rate |
+|:------------|:-------------|------:|-----------:|
+| Garfield    | Nebraska     |  1969 |       1219 |
+| Mineral     | Colorado     |   769 |       1170 |
+| Hodgeman    | Kansas       |  1794 |        669 |
+| Lamb        | Texas        | 12893 |        667 |
+| Rolette     | North Dakota | 14176 |        642 |
+| Menifee     | Kentucky     |  6489 |        462 |
+| Sioux       | North Dakota |  4230 |        426 |
+| Clark       | Kansas       |  1994 |        401 |
+| Thurston    | Nebraska     |  7224 |        388 |
+| Gove        | Kansas       |  2636 |        379 |
+| Traverse    | Minnesota    |  3259 |        368 |
+| Bennington  | Vermont      | 35470 |        361 |
+| Campbell    | Tennessee    | 39842 |        356 |
+| Nance       | Nebraska     |  3519 |        341 |
+| Apache      | Arizona      | 71887 |        320 |
+| Hemphill    | Texas        |  3819 |        314 |
+| Stevens     | Kansas       |  5485 |        310 |
+| Benton      | Tennessee    | 16160 |        309 |
+| Benewah     | Idaho        |  9298 |        301 |
+| Charles Mix | South Dakota |  9292 |        291 |
