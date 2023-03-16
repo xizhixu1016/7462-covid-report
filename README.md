@@ -1,7 +1,7 @@
 Minnesota COVID Report
 ================
 
-Report last run: 2023-03-15 22:08:42
+Report last run: 2023-03-16 22:09:20
 
 ## Introduction
 
@@ -106,25 +106,25 @@ rate_data %>%
   knitr::kable()
 ```
 
-| county      | state        |   pop | covid_rate |
-|:------------|:-------------|------:|-----------:|
-| Garfield    | Nebraska     |  1969 |       1219 |
-| Mineral     | Colorado     |   769 |       1170 |
-| Hodgeman    | Kansas       |  1794 |        669 |
-| Lamb        | Texas        | 12893 |        667 |
-| Rolette     | North Dakota | 14176 |        642 |
-| Menifee     | Kentucky     |  6489 |        462 |
-| Sioux       | North Dakota |  4230 |        426 |
-| Clark       | Kansas       |  1994 |        401 |
-| Thurston    | Nebraska     |  7224 |        388 |
-| Gove        | Kansas       |  2636 |        379 |
-| Traverse    | Minnesota    |  3259 |        368 |
-| Bennington  | Vermont      | 35470 |        361 |
-| Campbell    | Tennessee    | 39842 |        356 |
-| Nance       | Nebraska     |  3519 |        341 |
-| Apache      | Arizona      | 71887 |        320 |
-| Hemphill    | Texas        |  3819 |        314 |
-| Stevens     | Kansas       |  5485 |        310 |
-| Benton      | Tennessee    | 16160 |        309 |
-| Benewah     | Idaho        |  9298 |        301 |
-| Charles Mix | South Dakota |  9292 |        291 |
+| county       | state |     pop | covid_rate |
+|:-------------|:------|--------:|-----------:|
+| Delta        | Texas |    5331 |     147102 |
+| Frio         | Texas |   20306 |       6259 |
+| Denton       | Texas |  887207 |       4896 |
+| Loving       | Texas |     169 |       4142 |
+| Jones        | Texas |   20083 |       3934 |
+| Hudspeth     | Texas |    4886 |       3909 |
+| Crockett     | Texas |    3464 |       3695 |
+| Jasper       | Texas |   35529 |       3090 |
+| San Patricio | Texas |   66730 |       3069 |
+| Walker       | Texas |   72971 |       2894 |
+| Schleicher   | Texas |    2793 |       2542 |
+| Goliad       | Texas |    7658 |       2468 |
+| Crane        | Texas |    4797 |       2376 |
+| Comal        | Texas |  156209 |       2144 |
+| Deaf Smith   | Texas |   18546 |       2092 |
+| Victoria     | Texas |   92084 |       2045 |
+| Maverick     | Texas |   58722 |       2020 |
+| Childress    | Texas |    7306 |       1848 |
+| Terrell      | Texas |     776 |       1804 |
+| Travis       | Texas | 1273954 |       1789 |
