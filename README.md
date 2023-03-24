@@ -1,7 +1,7 @@
 Minnesota COVID Report
 ================
 
-Report last run: 2023-03-23 22:08:50
+Report last run: 2023-03-24 22:08:21
 
 ## Introduction
 
@@ -108,23 +108,23 @@ rate_data %>%
 
 | county                   | state         |   pop | covid_rate |
 |:-------------------------|:--------------|------:|-----------:|
+| Major                    | Oklahoma      |  7629 |      10067 |
+| McIntosh                 | Oklahoma      | 19596 |       4241 |
 | Hansford                 | Texas         |  5399 |        704 |
+| Cimarron                 | Oklahoma      |  2137 |        702 |
+| Latimer                  | Oklahoma      | 10073 |        536 |
+| Harmon                   | Oklahoma      |  2653 |        528 |
 | Pecos                    | Texas         | 15823 |        487 |
 | Douglas                  | South Dakota  |  2921 |        479 |
 | Yoakum                   | Texas         |  8713 |        448 |
+| Haskell                  | Oklahoma      | 12627 |        443 |
 | Northwest Arctic Borough | Alaska        |  7621 |        420 |
 | Dewey                    | South Dakota  |  5892 |        390 |
 | Menifee                  | Kentucky      |  6489 |        385 |
 | Hyde                     | South Dakota  |  1301 |        384 |
 | Barnes                   | North Dakota  | 10415 |        384 |
-| Clay                     | Illinois      | 13184 |        379 |
 | Wirt                     | West Virginia |  5821 |        378 |
+| St. Croix                | Wisconsin     | 90687 |        371 |
 | Thurston                 | Nebraska      |  7224 |        360 |
 | Bethel Census Area       | Alaska        | 18386 |        354 |
-| De Baca                  | New Mexico    |  1748 |        343 |
-| Charles Mix              | South Dakota  |  9292 |        334 |
-| Rolette                  | North Dakota  | 14176 |        282 |
-| Mineral                  | Montana       |  4397 |        273 |
-| Scott                    | Tennessee     | 22068 |        272 |
-| Piute                    | Utah          |  1479 |        270 |
-| Apache                   | Arizona       | 71887 |        270 |
+| Dewey                    | Oklahoma      |  4891 |        348 |
