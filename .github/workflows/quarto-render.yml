@@ -1,13 +1,12 @@
-on: [workflow_dispatch]
+# on: [workflow_dispatch]
 
 # Un-comment the following lines (and comment out the first one) to make this a scheduled job
-#on:
-#  schedule:
-#    - cron:  '0 22 * * *'
-#  push:
-#    branches: main
-#  workflow_dispatch:
-# I'm not sure what this part of code means :( 
+on:
+  schedule:
+    - cron:  '0 22 * * *'
+  push:
+    branches: main
+  workflow_dispatch:
 
 name: Render Report
 
