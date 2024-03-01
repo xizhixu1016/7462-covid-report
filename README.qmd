@@ -11,7 +11,7 @@ editor: visual
 
 Report last run: `r Sys.time()`
 
-## Introduction
+## Introduction: Hello World!
 
 This is an example report that uses COVID-19 data from the New York Times to illustrate the use of automation processes.
 
